@@ -4,7 +4,7 @@ void sonakshi(int age){
     printf("How old are you?: :)\n");
     printf("Yoo! Congratulations! ");
     printf("%d", age);
-    printf(" didi hehhe");
+    printf(" didi hehhe\n");
 
     
     
