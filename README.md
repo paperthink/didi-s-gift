@@ -2,6 +2,7 @@
 
 ![Built by Pratyush](https://img.shields.io/badge/Built%20by-Pratyush-orange?style=for-the-badge&logo=rocket)
 
+*Please edit the age in the parameter and 17 might be her wrong age*
 ---
 **This is a gift for a didi** ✨
 
